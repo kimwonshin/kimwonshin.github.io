@@ -1,2 +1,2 @@
 "# kimwonshin.github.io" 
-[about](#./about.md)
+[about](test/test.md)
